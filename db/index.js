@@ -6,7 +6,7 @@ const db = knex({
     host: 'slickk.cnai4blomaps.us-east-2.rds.amazonaws.com',
     port: '5432',
     user: 'slickk',
-    password: 'Okcthunder35',
+    password: '',
     database: 'slickk1'
   }
 });
